@@ -11,3 +11,6 @@ BI_8M_12M.xlsx：Validate data set 1
 ill.xlsx: Validate data set 2  
 初值.xlsx: Model parameters and initial values  
 national.csv: Computational validation data  
+
+##   
+FYI, Remember to modify the code file path to suit your device
